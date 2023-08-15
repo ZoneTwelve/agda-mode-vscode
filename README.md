@@ -135,3 +135,5 @@ Please consider using *Refine* (<kbd>C-c</kbd> <kbd>C-r</kbd>) instead.
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
+
+# Example
